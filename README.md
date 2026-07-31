@@ -1,2 +1,2 @@
 The output looks like this : 
-![output]()
+![output](https://github.com/vignesh-E-git/GDG-CIT-workshop/blob/main/preview.png)
